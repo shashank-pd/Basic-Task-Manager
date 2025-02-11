@@ -11,6 +11,7 @@ A simple command-line-based task manager implemented in Python. This project all
 - Save tasks to a file
 - Load tasks from a file
 
+
 ## Requirements
 
 - Python 3.x
